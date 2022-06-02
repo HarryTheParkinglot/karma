@@ -75,7 +75,7 @@ export default function AnbdMain() {
           </Text>
           <View style={styles.postBottomGroup}>
             <View style={styles.postBottomTextGroup}>
-              <Text styles={styles.postBottomText}>2일 전, 사용자</Text>
+              <Text style={styles.postBottomText}>2일 전, 사용자</Text>
             </View>
             <View style={styles.postBottomIconGroup}>
               <View style={styles.postBottomIconGroupSmall}>
@@ -97,7 +97,7 @@ export default function AnbdMain() {
           </Text>
           <View style={styles.postBottomGroup}>
             <View style={styles.postBottomTextGroup}>
-              <Text styles={styles.postBottomText}>2일 전, 사용자</Text>
+              <Text style={styles.postBottomText}>2일 전, 사용자</Text>
             </View>
             <View style={styles.postBottomIconGroup}>
               <View style={styles.postBottomIconGroupSmall}>
@@ -119,7 +119,7 @@ export default function AnbdMain() {
           </Text>
           <View style={styles.postBottomGroup}>
             <View style={styles.postBottomTextGroup}>
-              <Text styles={styles.postBottomText}>2일 전, 사용자</Text>
+              <Text style={styles.postBottomText}>2일 전, 사용자</Text>
             </View>
             <View style={styles.postBottomIconGroup}>
               <View style={styles.postBottomIconGroupSmall}>
@@ -141,7 +141,7 @@ export default function AnbdMain() {
           </Text>
           <View style={styles.postBottomGroup}>
             <View style={styles.postBottomTextGroup}>
-              <Text styles={styles.postBottomText}>2일 전, 사용자</Text>
+              <Text style={styles.postBottomText}>2일 전, 사용자</Text>
             </View>
             <View style={styles.postBottomIconGroup}>
               <View style={styles.postBottomIconGroupSmall}>
@@ -163,7 +163,7 @@ export default function AnbdMain() {
           </Text>
           <View style={styles.postBottomGroup}>
             <View style={styles.postBottomTextGroup}>
-              <Text styles={styles.postBottomText}>2일 전, 사용자</Text>
+              <Text style={styles.postBottomText}>2일 전, 사용자</Text>
             </View>
             <View style={styles.postBottomIconGroup}>
               <View style={styles.postBottomIconGroupSmall}>
@@ -185,7 +185,7 @@ export default function AnbdMain() {
           </Text>
           <View style={styles.postBottomGroup}>
             <View style={styles.postBottomTextGroup}>
-              <Text styles={styles.postBottomText}>2일 전, 사용자</Text>
+              <Text style={styles.postBottomText}>2일 전, 사용자</Text>
             </View>
             <View style={styles.postBottomIconGroup}>
               <View style={styles.postBottomIconGroupSmall}>
@@ -207,7 +207,7 @@ export default function AnbdMain() {
           </Text>
           <View style={styles.postBottomGroup}>
             <View style={styles.postBottomTextGroup}>
-              <Text styles={styles.postBottomText}>2일 전, 사용자</Text>
+              <Text style={styles.postBottomText}>2일 전, 사용자</Text>
             </View>
             <View style={styles.postBottomIconGroup}>
               <View style={styles.postBottomIconGroupSmall}>
@@ -229,7 +229,7 @@ export default function AnbdMain() {
           </Text>
           <View style={styles.postBottomGroup}>
             <View style={styles.postBottomTextGroup}>
-              <Text styles={styles.postBottomText}>2일 전, 사용자</Text>
+              <Text style={styles.postBottomText}>2일 전, 사용자</Text>
             </View>
             <View style={styles.postBottomIconGroup}>
               <View style={styles.postBottomIconGroupSmall}>
@@ -328,7 +328,7 @@ const styles = StyleSheet.create({
     alignContent: "center",
   },
   postBottomText: {
-    color: "rgba(0,0,0,0.5)",
+    color: "#ACACAC",
     fontSize: 12,
   },
   postBottomIconGroup: {
